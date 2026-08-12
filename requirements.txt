@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.3
+pyarrow>=12.0
+
+# optional: data acquisition (scripts/prep_statcast.py, name lookup)
+# pybaseball>=2.2
+
+# optional: plots
+# matplotlib>=3.6
